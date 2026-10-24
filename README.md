@@ -32,6 +32,10 @@ A `MOCK_MODE` switch lets the whole pipeline run without spending API quota.
 - [ ] Evaluation: measure classification accuracy on a labelled test set of emails
 - [ ] Send replies automatically and add a human-approval step for sensitive cases
 
+## How I built it
+
+The code was written with AI coding assistants. I chose the approach, set up and connected the services (Gmail, Pipedream, Gemini, Google Sheets, PythonAnywhere), and did the testing and debugging to get the pipeline running end to end.
+
 ## Running it
 
 ```
