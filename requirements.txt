@@ -1,0 +1,8 @@
+flask
+python-dotenv
+google-genai
+gspread
+pandas
+openpyxl
+tabulate
+streamlit

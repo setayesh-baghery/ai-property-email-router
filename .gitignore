@@ -1,0 +1,20 @@
+# SECRETS: never commit these
+.env
+.env.*
+!.env.example
+config.txt
+service_account.json
+*credentials*.json
+
+# Python environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# old copy, Apple Numbers file, unused Node file, Mac files
+router WORKS.py
+*.numbers
+package.json
+.DS_Store
+Icon?
